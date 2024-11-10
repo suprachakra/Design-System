@@ -1,4 +1,4 @@
-# Shared-Services-Platform
+# Design System and Product Management CoE
 
 ---
 
