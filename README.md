@@ -3,17 +3,17 @@
 ---
 # Table of Contents
 
-## 1. Project Overview
+### 1. Project Overview
    - [Introduction](#introduction)
    - [Vision and Strategic Goals](#vision-and-strategic-goals)
    - [Scope & Boundaries](#scope--boundaries)
 
-## 2. Home and Getting Started
+### 2. Home and Getting Started
    - [Welcome & Orientation](#welcome--orientation)
    - [Design Principles](#design-principles)
    - [Quick Start Guide](#quick-start-guide)
 
-## 3. Component Library
+### 3. Component Library
    - [Interactive Component Previews](#interactive-component-previews)
    - [Usage Guidelines](#usage-guidelines)
    - [Code Snippets & Downloadable Assets](#code-snippets--downloadable-assets)
