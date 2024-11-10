@@ -19,14 +19,14 @@
    - [Code Snippets & Downloadable Assets](#code-snippets--downloadable-assets)
    - [Accessibility Standards](#accessibility-standards)
 
-4. [Style Guide](#style-guide)
+### 4. Style Guide
    - [Typography](#typography)
    - [Color Palette](#color-palette)
    - [Iconography](#iconography)
    - [Spacing and Layout](#spacing-and-layout)
    - [Brand Alignment](#brand-alignment)
 
-5. [Patterns and Templates](#patterns-and-templates)
+### 5. Patterns and Templates
    - [UI Patterns](#ui-patterns)
      - [Forms](#forms)
      - [Modals and Dialog Boxes](#modals-and-dialog-boxes)
@@ -41,7 +41,7 @@
      - [Search and Filtering Pages](#search-and-filtering-pages)
    - [Localization and Adaptability](#localization-and-adaptability)
 
-6. [Design Tokens](#design-tokens)
+### 6. Design Tokens
    - [Definition and Purpose](#definition-and-purpose)
    - [Token Library](#token-library)
      - [Color Tokens](#color-tokens)
@@ -51,7 +51,7 @@
      - [Other Design Tokens](#other-design-tokens)
    - [Usage Examples](#usage-examples)
 
-7. [Technical Architecture Overview](#technical-architecture-overview)
+### 7. Technical Architecture Overview
    - [System Architecture Diagram](#system-architecture-diagram)
    - [Data Flow and Dependencies](#data-flow-and-dependencies)
    - [Best Practices](#best-practices)
@@ -59,7 +59,7 @@
    - [Security and Compliance](#security-and-compliance)
    - [Technology Stack](#technology-stack)
 
-8. [APIs and Integration Specifications](#apis-and-integration-specifications)
+### 8. APIs and Integration Specifications
    - [API Documentation](#api-documentation)
    - [Data Flow Diagrams](#data-flow-diagrams)
    - [Versioning and Lifecycle Management](#versioning-and-lifecycle-management)
