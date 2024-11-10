@@ -89,6 +89,7 @@ The **Design System and PM CoE** is a centralized framework aimed at enhancing *
 - **Scalable and Adaptable Design**: A system that scales across platforms, regions, and additional product lines, with adaptability for evolving user needs and design trends.
 - **Commitment to Accessibility**: Ensure every component is accessible by default, aiming for **WCAG 2.1 AA compliance** across the board, supporting an inclusive experience for all users.
 
+---
 #### **Vision and Strategic Goals**
 
 **Vision**: Establish a flexible, user-centered design and product management ecosystem that empowers every team to deliver high-quality, accessible, brand-aligned experiences efficiently and at scale.
@@ -99,7 +100,7 @@ The **Design System and PM CoE** is a centralized framework aimed at enhancing *
 3. **Adaptability and Continuous Improvement**: Establish a design system adaptable to emerging user needs, design trends, and business requirements, with quarterly feedback integration.
 4. **Scale Across Agile Release Trains (ARTs)**: Provide shared resources that ARTs can adapt within standardized guidelines, reducing the need for customization and increasing alignment.
 5. **Accessibility and Inclusivity Standards**: Ensure **100% WCAG 2.1 AA compliance**, with bi-annual audits to assess and uphold accessibility standards.
-
+---
 #### **Scope & Boundaries**
 
 **In Scope**:
@@ -108,7 +109,7 @@ The **Design System and PM CoE** is a centralized framework aimed at enhancing *
 - **API and Integration Support**: Provide APIs and integration documentation for easy adoption across platforms, reducing development time.
 - **Feedback and Iteration Process**: Establish a quarterly feedback loop to gather insights and iteratively enhance the design system.
 - **Governance and Change Management**: Implementation of governance protocols, including a brand review process to maintain integrity and standardized updates across teams.
-
+---
 **Out of Scope**:
 - **Legacy System Support**: Design System support for legacy systems will be evaluated on a case-by-case basis. The system is currently optimized for actively maintained digital platforms.
 - **Customization for ARTs**: ARTs are encouraged to use components as-is for brand consistency, though a customization request process is available to handle unique use cases, with CoE oversight.
@@ -126,7 +127,7 @@ The **Design System and PM CoE** is a centralized framework aimed at enhancing *
    - **Introduction**: This design system is crafted to streamline design and development, enabling consistent, scalable user experiences across all digital products. By centralizing resources and standards, the system helps teams reduce design debt, accelerate time-to-market by **30%**, and maintain brand cohesion.
    - **Business Impact Module**: For non-design stakeholders, the **Business Impact Module** demonstrates the design system’s measurable benefits, such as reduced resource strain, faster iteration cycles, and improved customer satisfaction. Highlight relevant KPIs like customer satisfaction scores, design debt reduction, and time-to-market improvements.
    - **Case Study Examples**: Include examples of successful implementations from within the organization, showing how adherence to the design system has saved time and ensured consistency across products.
-
+---
 **Onboarding and Support Hub**  
    - **Experience-Based Customization**: A brief survey on first login lets users choose their experience level—beginner, intermediate, or advanced—to tailor the onboarding journey based on familiarity with design systems.
    - **Role-Based Resources**: Tailored onboarding paths provide specialized content for different functions:
@@ -228,19 +229,6 @@ The **Design System and PM CoE** is a centralized framework aimed at enhancing *
    - **Benefit**: Reinforces a culture of continuous improvement, making users feel valued and heard.
 
 ---
-
-To create a **final, pitch-perfect draft** of **Section 3: Component Library**, I’ll address it as a meticulously structured, user-friendly, and highly adaptable library that:
-
-1. **Ensures Consistency Across Teams**: Provides clear usage guidelines, contextual examples, and cross-component patterns to maintain a unified brand identity across diverse products and platforms.
-  
-2. **Supports Technical Flexibility and Scalability**: Supplies modular, reusable code snippets compatible with various frameworks, with version control and CI/CD integration guidance. A sandbox environment allows safe testing and experimentation.
-
-3. **Promotes Accessibility and Compliance**: Embeds WCAG-compliant tools and guidelines, ensuring each component meets accessibility standards. Regular audits and feedback loops continuously improve accessibility.
-
-4. **Facilitates Cross-Functional Collaboration**: Offers role-specific onboarding, usage recommendations, and feedback tools to cater to product managers, designers, and engineers. It also connects with collaborative platforms for seamless communication.
-
-5. **Provides Metrics and Feedback for Improvement**: An analytics dashboard tracks component usage and user feedback, promoting data-driven updates. Users are notified of changes, updates, and deprecations to keep workflows aligned and optimized.
-
 
 ### **3. Component Library**
 
