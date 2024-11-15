@@ -1,9 +1,5 @@
 
 
-
-
-
-
 ---
 # Design System and Product Management CoE
 
