@@ -78,11 +78,12 @@
 |         | **Feature 5.5: Operational Readiness, Cross-Functional Handoffs, and Incident Management** | **Incident Response** | **Readiness** | Ensure operational readiness and effective collaboration during the pilot | Operations Leads, Cross-Functional Teams | **User Story 5.5.1**: As an operations lead, I need a clear incident management framework for the pilot. | - Incidents resolved in <30 minutes.<br>- Handoffs validated to avoid delays. | - Develop escalation framework.<br>- Define handoff protocols.<br>- Train teams. | Handoff bottlenecks. | 12 | 30 | Handoff documentation | Open | Escalation delays | Medium | Improved readiness | - Incident resolution time <20 mins | Operational tools | Teams trained | Dependency on readiness | 85% | Protocols validated | Yes | PI-6 | Ongoing | Incident resolution rate | 85% | Operations, QA | Handoff flowcharts<br>Training manuals | Feedback logs | Retrospective reports |
 
 ---
-### **Release Management**
-
+### **Release Manangment**
 ---
 
 ### **Phases of Release Management**
+
+---
 
 #### **1. Pre-Release Phase (Weeks 1–9)**
 
@@ -104,8 +105,8 @@
 | Day 1–3       | 5%                     | Validate low-risk environments.                             | Deploy to 5% traffic. Monitor latency, error rates, and resource utilization.                        | Prometheus, Grafana       | Error rate <0.5%         | Engineering Lead    |
 | Day 4–6       | 10%                    | Test performance under peak loads.                          | Simulate high traffic. Validate autoscaling and system stability.                                    | Apache JMeter, Locust     | Zero downtime            | QA Lead            |
 | Day 7–9       | 20%                    | Broaden testing to diverse user groups.                     | Deploy to 20% traffic. Focus on edge cases and regional variations.                                  | OpenTelemetry, Splunk     | Regional KPIs >95% SLAs  | Regional Team      |
-| Day 10–12     | 50%                    | Validate end-to-end workflows under load.                   | Test workflows. Identify silent errors and usability gaps.                                           | Datadog, Mixpanel         | No critical failures     | QA Lead            |
-| Day 13–17     | 100%                   | Complete rollout and stabilize.                             | Roll out to 100%. Conduct final validations, monitor errors, and review user feedback.               | Sentry, Google Analytics  | User satisfaction >85%   | Product Manager    |
+| Day 10–14     | 50%                    | Validate end-to-end workflows under load.                   | Test workflows (e.g., payments, authentication). Identify silent errors and usability gaps.          | Datadog, Mixpanel         | No critical failures     | QA Lead            |
+| Day 15–17     | 100%                   | Complete rollout and stabilize.                             | Roll out to 100%. Conduct final validations, monitor errors, and review user feedback.               | Sentry, Google Analytics  | User satisfaction >85%   | Product Manager    |
 
 ---
 
