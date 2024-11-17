@@ -127,6 +127,8 @@
     - [Optimization Framework for Excellence](#optimization-framework-for-excellence)  
     - [Metrics for Execution Excellence](#metrics-for-execution-excellence)  
 
+21. [Non-Functional Requirements](#non-functional-requirements) 
+22. [Functional Requirements](#functional-requirements) 
 
 ---
 
@@ -2260,7 +2262,7 @@ The **Design System and PM CoP** is a centralized framework aimed at enhancing *
 
 ---
 
-## **21. Functional Requirements**
+## **22. Functional Requirements**
 
 | **FR #** | **Feature**                  | **Pillar**               | **Strategic Objective**      | **Epic**                    | **Personas Impacted** | **User Story**                                                                                              | **Acceptance Criteria**                                                                                      | **Error Management**                                   | **Story Points** | **WSJF** | **Dependencies**                           | **Dependency Status** | **Risks**                                        | **Risk Level** | **Non-Functional Impact**            | **Performance Benchmarks**                                               | **Enablers**                   | **Assumptions**                              | **Constraints**                                     | **Readiness** | **Feature Toggle/ Rollback** | **Target Release/PI Objective** | **Progress** | **KPI/Metric**                          | **Effort Confidence** | **Skills Required**               | **Documentation & Diagrams**        | **Feedback Mechanism** |
 |---------|-------------------------------|--------------------------|------------------------------|-----------------------------|------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-----------------|----------|--------------------------------------------|------------------------|---------------------------------------------------|----------------|-----------------------------------|--------------------------------------------------------------------------|--------------------------------|---------------------------------------------|-------------------------------------------------|--------------|------------------------------|--------------------------------|--------------|-------------------------------------|-----------------------|------------------------------------|------------------------------------|-------------------|
