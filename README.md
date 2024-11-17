@@ -131,6 +131,7 @@
 22. [Functional Requirements](#functional-requirements) 
 
 # Two-Year Strategic Plan for a Comprehensive Design System
+23. [Two-Year Strategic Plan for a Comprehensive Design System](#two-year-strategic-plan-for-a-comprehensive-design-system-1)
 
 ## Table of Contents
 1. [Introduction](#introduction)
