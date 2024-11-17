@@ -127,9 +127,9 @@
     - [Optimization Framework for Excellence](#optimization-framework-for-excellence)  
     - [Metrics for Execution Excellence](#metrics-for-execution-excellence)  
 
-21. [Non-Functional Requirements](#non-functional-requirements) 
+21. [Non-Functional Requirements](#21-non-functional-requirements) 
 
-22. [Functional Requirements](#functional-requirements) 
+22. [Functional Requirements](#22-functional-requirements) 
 
 23. [Two-Year Strategic Plan for a Comprehensive Design System](#two-year-strategic-plan-for-a-comprehensive-design-system-1)
    - [Introduction](#introduction)
@@ -2545,35 +2545,6 @@ Aligned with SAFe, this design system strategy incorporates the following Agile 
 | **REQ-06**         | Execute a cross-functional pilot with ART teams to validate usability, accessibility, and scalability | Pilot Project Execution | Deploy components to a representative pilot team across roles, capturing insights across devices and regions | Pilot Feedback Report | >85% adoption rate, >80% positive feedback, component usage insights analyzed for cross-device usability | Product Manager, UX Lead | Months 3-4 |
 | **REQ-07**         | Develop brand consistency guidelines covering cross-platform and accessible formats | Brand Consistency    | Create a digital style guide with brand elements for light/dark modes, multilingual support, and aviation accessibility compliance | Brand Style Guide | Consistency across devices, validated for color contrast, visual consistency, and cross-platform usability | Design Lead, Marketing | Month 4-5 |
 | **REQ-08**         | Implement SAFe-aligned governance protocols with quarterly ART reviews, compliance audits, and public change logs | Governance and Maintenance | Create a Governance Guide with structured QA, security reviews, quarterly ART reviews, and public change logs | Governance Guide | 90% adherence to protocols; changelogs available for stakeholder transparency | Product Manager, QA Lead | Month 5-7 |
-
----
-
-### Functional and Non-Functional Requirements (FRs and NFRs)
-
-#### Functional Requirements (FRs)
-
-| **FR ID** | **Requirement** | **Details** |
-|-----------|-----------------|-------------|
-| **FR-01** | Develop aviation-specific, reusable UI components with cross-platform adaptability | Components include booking, flight status, and navigation widgets, tested for high-load and cross-device usage. |
-| **FR-02** | Define design tokens optimized for multilingual and aviation-specific accessibility | Tokens support RTL/LTR layouts, high contrast, dark mode, and accessibility requirements. |
-| **FR-03** | Launch a multilingual documentation website with role-based onboarding and analytics | Documentation includes multilingual support, search optimization, and usage tracking for continuous updates. |
-| **FR-04** | Set up GDPR-compliant feedback channels with prioritized response workflows for ARTs | Feedback channels are structured to collect insights, with responses aligned with ART priorities. |
-| **FR-05** | Execute a cross-functional pilot with ART teams to validate scalability and compliance | Pilot collects data and feedback across user roles and devices, validating performance in real-world use. |
-| **FR-06** | Provide interactive, role-based training sessions and follow-up resources for ARTs | Training includes team-specific onboarding, on-demand resources, and follow-up sessions. |
-| **FR-07** | Establish adaptable brand guidelines covering digital, multilingual, and accessible formats | Brand guidelines ensure consistency, accessibility, and cross-platform compatibility. |
-| **FR-08** | Implement a governance framework with quarterly ART reviews and compliance audits | Governance includes ART syncs, QA, security audits, and a public changelog for transparency.
-
-#### Non-Functional Requirements (NFRs)
-
-| **NFR ID** | **Requirement** | **Details** |
-|------------|-----------------|-------------|
-| **NFR-01** | Ensure compliance with WCAG 2.1, ADA, PCI-DSS, and GDPR | Quarterly audits ensure adherence to accessibility, payment security, and data privacy standards. |
-| **NFR-02** | Design tokens support scalability, multi-theme performance, and multilingual adaptability | Tokens optimized for performance, supporting multi-brand and multilingual needs. |
-| **NFR-03** | Documentation achieves >90% user satisfaction with multilingual support | Documentation provides support in multiple languages; <5 min response time for support queries. |
-| **NFR-04** | Feedback channels maintain GDPR compliance and prioritize ART-aligned responses | Data anonymized for privacy; high-impact feedback is prioritized within ART cycles. |
-| **NFR-05** | Training completion rate reaches 85% within ARTs, with knowledge assessments | Role-based training supports knowledge retention; additional support as needed. |
-| **NFR-06** | Achieve >80% design token adoption across pilot components | Adoption tracked and reviewed within each ART; workshops reinforce consistent token use. |
-| **NFR-07** | Governance protocols achieve 90% adherence with quarterly ART reviews and compliance audits | ART reviews maintain protocol compliance; public changelogs increase transparency.
 
 ---
 
