@@ -2529,7 +2529,7 @@ Aligned with SAFe, this design system strategy incorporates the following Agile 
 ### **Phase 1: Pilot Project & Initial Rollout (Months 1-7)**
 
 #### **Objective**: 
-Establish a scalable, design system aligned with SAFe. This phase emphasizes usability, governance, cross-functional feedback, and adaptability to support high-load performance, data privacy, and accessibility for a global audience.
+Establish a scalable, design system aligned with SAFe. This phase emphasizes usability, governance, cross-functional feedback, and adaptability to support high-load performance, data privacy, and accessibility for a global audience. For reference lets consider this phase execution for this document. Later the same can be repeated for other phases. Also we need to consider that its a conitinuous improvement so a lot of process, scenarios, perspectives, criteria might change on the real world, and accordingly the roadmap, backlog, prioritization  may change.
 
 ---
 
