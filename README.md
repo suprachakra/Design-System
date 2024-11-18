@@ -147,21 +147,21 @@
       - Communication Roadmap and Brand Consistency Audits
       - Metrics and KPIs
     -  [Phase 3: Full Beta Rollout and Scalability Testing (Months 14-18)](#phase-3-full-beta-rollout-and-scalability-testing-months-14-18)
-      - [Beta Release to Select Teams](#beta-release-to-select-teams)
-      - [Performance and Scalability Testing](#performance-and-scalability-testing)
-      - [Feedback-Driven Refinement](#feedback-driven-refinement)
-      - [Brand Ambassador Program](#brand-ambassador-program)
-      - [Metrics and KPIs](#metrics-and-kpis-2)
+      - Beta Release to Select Teams
+      - Performance and Scalability Testing
+      - Feedback-Driven Refinement
+      - Brand Ambassador Program
+      - Metrics and KPIs
     - [Phase 4: Organization-Wide Release and Continuous Improvement (Months 19-24)](#phase-4-organization-wide-release-and-continuous-improvement-months-19-24)
-      - [Phased Full Release](#phased-full-release)
-      - [Continuous Improvement Protocol](#continuous-improvement-protocol)
-      - [Maturity Model Rollout](#maturity-model-rollout)
-      - [Annual System Review](#annual-system-review)
-      -  [Metrics and KPIs](#metrics-and-kpis-3)
+      - Phased Full Release
+      - Continuous Improvement Protocol
+      - Maturity Model Rollout
+      - Annual System Review
+      - Metrics and KPIs
    6. [Post-Launch Continuous Improvement Strategy (Beyond 24 Months)](#post-launch-continuous-improvement-strategy-beyond-24-months)
-      - [Ongoing Feedback and Analytics](#ongoing-feedback-and-analytics)
-      - [Quarterly Component and Accessibility Updates](#quarterly-component-and-accessibility-updates)
-      - [Annual Documentation and Governance Refresh](#annual-documentation-and-governance-refresh)
+      - Ongoing Feedback and Analytics
+      - Quarterly Component and Accessibility Updates
+      - Annual Documentation and Governance Refresh
    7. [Integrated Risk Mitigation](#integrated-risk-mitigation)
    8. [SAFe Integration and Continuous Alignment](#safe-integration-and-continuous-alignment)
 24. [Detailed Epics and Features](#detailed-epics-and-features)
