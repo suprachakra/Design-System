@@ -131,22 +131,22 @@
 
 22. [Functional Requirements](#22-functional-requirements) 
 
-23. [Two-Year Strategic Plan for a Comprehensive Design System](#two-year-strategic-plan-for-a-comprehensive-design-system-1)
-    - [Phase 1: Foundations and Pilot Integration (Months 1-5)](#phase-1-foundations-and-pilot-integration-months-1-5)
+23. [Two-Year Strategic Plan for a Comprehensive Design System](#two-year-strategic-plan-for-a-comprehensive-design-system)
+    - [Phase 1: Foundations and Pilot Integration (Months 1-7)](#phase-1-foundations-and-pilot-integration-months-1-7)
       - Design Tokens and Theming
       - Core Component Library
       - Documentation and Training Hub
       - Pilot Project and Designer Feedback Loop
       - Brand Consistency Module
       - Metrics and KPIs
-    - [Phase 2: Component Expansion, Governance, and Structured Feedback (Months 6-12)](#phase-2-component-expansion-governance-and-structured-feedback-months-6-12)
+    - [Phase 2: Component Expansion, Governance, and Structured Feedback (Months 7-14)](#phase-2-component-expansion-governance-and-structured-feedback-months-7-14)
       - Advanced Component Library
-      - [Governance Framework](#governance-framework)
-      - [Design System Portal](#design-system-portal)
-      - [Structured Feedback Loop](#structured-feedback-loop)
-      - [Communication Roadmap and Brand Consistency Audits](#communication-roadmap-and-brand-consistency-audits)
-      - [Metrics and KPIs](#metrics-and-kpis-1)
-    -  [Phase 3: Full Beta Rollout and Scalability Testing (Months 13-18)](#phase-3-full-beta-rollout-and-scalability-testing-months-13-18)
+      - Governance Framework
+      - Design System Portal
+      - Structured Feedback Loop
+      - Communication Roadmap and Brand Consistency Audits
+      - Metrics and KPIs
+    -  [Phase 3: Full Beta Rollout and Scalability Testing (Months 14-18)](#phase-3-full-beta-rollout-and-scalability-testing-months-14-18)
       - [Beta Release to Select Teams](#beta-release-to-select-teams)
       - [Performance and Scalability Testing](#performance-and-scalability-testing)
       - [Feedback-Driven Refinement](#feedback-driven-refinement)
