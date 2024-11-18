@@ -188,7 +188,13 @@
     - [SAFe Milestones](#safe-milestones)
       
 25. [Release Management](#25-release-manangment))
-
+    - [Phases of Release Management](#phases-of-release-management)
+      - [Pre-Release Phase (Weeks 1–9)](#1-pre-release-phase-weeks-19)
+      - [Canary Release Phase (17 Days)](#2-canary-release-phase-17-days)
+      - [ Post-Release Phase (20 Days)](#3-post-release-phase-20-days)    
+    - [Rollback Plan](#rollback-plan)
+    - [Runbook Details](#runbook-details-1)
+    - [Technical Insights](#technical-insights-1)
 ---
 
 #### **1. Project Overview**
