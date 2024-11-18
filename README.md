@@ -166,20 +166,20 @@
    8. [SAFe Integration and Continuous Alignment](#safe-integration-and-continuous-alignment)
 24. Phase 1 - Pilot(Use case)
     - [Phase 1: Pilot Project & Initial Rollout (Months 1-7)](#phase-1-pilot-project--initial-rollout-months-1-7)  
- 
-https://github.com/suprachakra/Shared-Services-#safe-integration-and-continuous-alignment
-24. [Detailed Epics and Features](#detailed-epics-and-features)
-   - [Epic 1: Scalable, User-Centered UI Components](#epic-1-scalable-user-centered-ui-components)
-   - [Epic 2: Design Tokens and Responsive Typography](#epic-2-design-tokens-and-responsive-typography)
-   - [Epic 3: Centralized Documentation Website with Brand Voice and Analytics](#epic-3-centralized-documentation-website-with-brand-voice-and-analytics)
-   - [Epic 4: Feedback Mechanisms with Prioritization and Compliance](#epic-4-feedback-mechanisms-with-prioritization-and-compliance)
-   - [Epic 5: Cross-Functional Pilot Testing with Compliance and Brand Validation](#epic-5-cross-functional-pilot-testing-with-compliance-and-brand-validation)
-11. [Metrics, KPIs, and Governance](#metrics-kpis-and-governance)
-    - [Key Metrics and KPIs](#key-metrics-and-kpis)
-    - [Governance and Compliance](#governance-and-compliance)
-12. [Tables and Visual Aids](#tables-and-visual-aids)
-    - [Summary Tables](#summary-tables)
-    - [Roadmaps](#roadmaps)
+    - [Objective](#objective)
+    - [Requirements for Pilot Phase](#requirements-for-pilot-phase)
+      [Detailed Epics and Features](#detailed-epics-and-features)
+      - [Epic 1: Scalable, User-Centered UI Components](#epic-1-scalable-user-centered-ui-components)
+      - [Epic 2: Design Tokens and Responsive Typography](#epic-2-design-tokens-and-responsive-typography)
+      - [Epic 3: Centralized Documentation Website with Brand Voice and Analytics](#epic-3-centralized-documentation-website-with-brand-voice-and-analytics)
+      - [Epic 4: Feedback Mechanisms with Prioritization and Compliance](#epic-4-feedback-mechanisms-with-prioritization-and-compliance)
+      - [Epic 5: Cross-Functional Pilot Testing with Compliance and Brand Validation](#epic-5-cross-functional-pilot-testing-with-compliance-and-brand-validation)
+      11. [Metrics, KPIs, and Governance](#metrics-kpis-and-governance)
+         - [Key Metrics and KPIs](#key-metrics-and-kpis)
+         - [Governance and Compliance](#governance-and-compliance)
+      12. [Tables and Visual Aids](#tables-and-visual-aids)
+         - [Summary Tables](#summary-tables)
+         - [Roadmaps](#roadmaps)
 
 28. [Release Management](#release-manangment)
 
@@ -2536,7 +2536,8 @@ Aligned with SAFe, this design system strategy incorporates the following Agile 
 Establish a scalable, design system aligned with SAFe. This phase emphasizes usability, governance, cross-functional feedback, and adaptability to support high-load performance, data privacy, and accessibility for a global audience. For reference lets consider this phase execution for this document. Later the same can be repeated for other phases. Also we need to consider that its a conitinuous improvement so a lot of process, scenarios, perspectives, criteria might change on the real world, and accordingly the roadmap, backlog, prioritization  may change.
 
 ---
-
+#### **Requirement for Pilot Phase**: 
+---
 | **Requirement ID** | **Requirement Description** | **Feature/Component** | **Associated Task** | **Deliverable** | **Testing Criteria** | **Stakeholder Approval** | **Timeline** |
 |--------------------|-----------------------------|-----------------------|---------------------|-----------------|----------------------|--------------------------|---------------|
 | **REQ-01**         | Develop a modular, scalable UI component library| Component Library    | Build foundational components (e.g., booking widgets, flight status, navigation maps) with versioned APIs and cross-device compatibility | Core component library | Validated for usability, accessibility, and load performance across desktop, tablet, and mobile devices | Engineering Lead, Product Manager | Months 1-2 |
