@@ -177,7 +177,6 @@
       - [Design System Document](#design-system-document)
         - [Quick Reference Summary Table](#quick-reference-summary-table)
         - [Continuous Improvement And Success Metrics](#continuous-improvement-and-success-metrics)
-
       - [Epic 1: Scalable, User-Centered UI Components](#epic-1-scalable-user-centered-ui-components)
       - [Epic 2: Design Tokens and Responsive Typography](#epic-2-design-tokens-and-responsive-typography)
       - [Epic 3: Centralized Documentation Website with Brand Voice and Analytics](#epic-3-centralized-documentation-website-with-brand-voice-and-analytics)
