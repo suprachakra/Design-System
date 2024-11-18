@@ -170,9 +170,8 @@
       - [Requirements for Pilot Phase](#requirement-for-pilot-phase)
       - [Continuous Improvement and Success Metrics](#continuous-improvement-and-success-metrics)
       - [Design System Document](#design-system-document)
-        [Quick Reference Summary Table](#2-quick-reference-summary-table)
-        [Continuous Improvement And Success Metrics](#5-continuous-improvement-and-success-metrics)
-      [Detailed Epics and Features](#detailed-epics-and-features)
+        - [Quick Reference Summary Table](#quick-reference-summary-table)
+        - [Continuous Improvement And Success Metrics](#continuous-improvement-and-success-metrics)
       - [Epic 1: Scalable, User-Centered UI Components](#epic-1-scalable-user-centered-ui-components)
       - [Epic 2: Design Tokens and Responsive Typography](#epic-2-design-tokens-and-responsive-typography)
       - [Epic 3: Centralized Documentation Website with Brand Voice and Analytics](#epic-3-centralized-documentation-website-with-brand-voice-and-analytics)
@@ -2575,13 +2574,13 @@ Establish a scalable, design system aligned with SAFe. This phase emphasizes usa
 
 ---
 
-### **1. Introduction**
+### **Introduction**
 
 This document outlines the development, testing, governance, and continuous improvement of a scalable, accessible, and user-centered design system. It provides a comprehensive framework for team members across Product, Engineering, UX, Compliance, and QA to collaboratively achieve a high-quality, resilient design system.
 
 ---
 
-### **2. Quick-Reference Summary Table**
+### **Quick-Reference Summary Table**
 
 | **Epic**                                | **Objective**                                                            | **Key Results** |
 |-----------------------------------------|-------------------------------------------------------------------------|-----------------|
@@ -2594,13 +2593,13 @@ This document outlines the development, testing, governance, and continuous impr
 
 ---
 
-### **3. Epics Overview with Visual Flow**
+### **Epics Overview with Visual Flow**
 
 A process flow diagram would ideally be included here to visually depict the relationship between epics, major features, and key outcomes.
 
 ---
 
-### **4. Compliance and Accessibility Reference Table**
+### **Compliance and Accessibility Reference Table**
 
 | **Requirement** | **Details**                             |
 |-----------------|-----------------------------------------|
@@ -2611,7 +2610,7 @@ A process flow diagram would ideally be included here to visually depict the rel
 
 ---
 
-### **5. Continuous Improvement and Success Metrics**
+### **Continuous Improvement and Success Metrics**
 
 1. **Load Management and Scalability**: Dynamic scaling and proactive latency monitoring.
 2. **Hybrid Feedback Prioritization**: Automated and human oversight for prioritization.
