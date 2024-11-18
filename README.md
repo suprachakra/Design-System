@@ -187,7 +187,7 @@
     - [Product Roadmap](#product-roadmap)
     - [SAFe Milestones](#safe-milestones)
       
-25. [Release Management](#25-release-manangment))
+25. [Release Management](#25-release-manangment)
     - [Phases of Release Management](#phases-of-release-management)
       - [Pre-Release Phase (Weeks 1–9)](#1-pre-release-phase-weeks-19)
       - [Canary Release Phase (17 Days)](#2-canary-release-phase-17-days)
