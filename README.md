@@ -146,7 +146,7 @@
       - Structured Feedback Loop
       - Communication Roadmap and Brand Consistency Audits
       - Metrics and KPIs
-    -  [Phase 3: Full Beta Rollout and Scalability Testing (Months 14-18)](#phase-3-full-beta-rollout-and-scalability-testing-months-14-18)
+    - [Phase 3: Full Beta Rollout and Scalability Testing (Months 14-18)](#phase-3-full-beta-rollout-and-scalability-testing-months-14-18)
       - Beta Release to Select Teams
       - Performance and Scalability Testing
       - Feedback-Driven Refinement
@@ -166,12 +166,12 @@
    8. [SAFe Integration and Continuous Alignment](#safe-integration-and-continuous-alignment)
 24. Phase 1 - Pilot(Use case)
     - [Phase 1: Pilot Project & Initial Rollout (Months 1-7)](#phase-1-pilot-project--initial-rollout-months-1-7)  
-    - [Objective](#objective)
-    - [Requirements for Pilot Phase](#requirement-for-pilot-phase)
-    - [Continuous Improvement and Success Metrics](#continuous-improvement-and-success-metrics)
-    - [Design System Document](#design-system-document)
-      [Quick Reference Summary Table](#2-quick-reference-summary-table)
-      [Continuous Improvement And Success Metrics](#5-continuous-improvement-and-success-metrics)
+      - [Objective](#objective)
+      - [Requirements for Pilot Phase](#requirement-for-pilot-phase)
+      - [Continuous Improvement and Success Metrics](#continuous-improvement-and-success-metrics)
+      - [Design System Document](#design-system-document)
+        [Quick Reference Summary Table](#2-quick-reference-summary-table)
+        [Continuous Improvement And Success Metrics](#5-continuous-improvement-and-success-metrics)
       [Detailed Epics and Features](#detailed-epics-and-features)
       - [Epic 1: Scalable, User-Centered UI Components](#epic-1-scalable-user-centered-ui-components)
       - [Epic 2: Design Tokens and Responsive Typography](#epic-2-design-tokens-and-responsive-typography)
