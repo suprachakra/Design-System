@@ -2369,6 +2369,7 @@ The **Design System and PM CoP** is a centralized framework aimed at enhancing *
 ---
 
 ### **Phase 1: Foundations and Pilot Integration (Months 1-5)**
+---
 
 **Goal**: Build foundational design tokens, core components, and establish a pilot feedback loop to test usability and system adaptability in real-world scenarios.
 
@@ -2401,6 +2402,7 @@ The **Design System and PM CoP** is a centralized framework aimed at enhancing *
 ---
 
 ### **Phase 2: Component Expansion, Governance, and Structured Feedback (Months 6-12)**
+---
 
 **Goal**: Expand component offerings, set up system governance, and develop a feedback loop for continuous improvement.
 
@@ -2433,6 +2435,7 @@ The **Design System and PM CoP** is a centralized framework aimed at enhancing *
 ---
 
 ### **Phase 3: Full Beta Rollout and Scalability Testing (Months 13-18)**
+---
 
 **Goal**: Release the design system to select teams for extensive testing and scalability evaluation.
 
@@ -2460,6 +2463,7 @@ The **Design System and PM CoP** is a centralized framework aimed at enhancing *
 ---
 
 ### **Phase 4: Organization-Wide Release and Continuous Improvement (Months 19-24)**
+---
 
 **Goal**: Complete a phased release across all teams, embedding processes for long-term sustainability, and establishing a framework for continuous improvement.
 
@@ -2486,6 +2490,7 @@ The **Design System and PM CoP** is a centralized framework aimed at enhancing *
 ---
 
 ### **Post-Launch Continuous Improvement Strategy (Beyond 24 Months)**
+---
 
 #### **Ongoing Feedback and Analytics**:
 - **Real-Time Feedback**: Implement channels for continuous feedback and improvement requests.
@@ -2523,19 +2528,20 @@ Aligned with SAFe, this design system strategy incorporates the following Agile 
 
 ### **Phase 1: Pilot Project & Initial Rollout (Months 1-7)**
 
-#### **Objective**: Establish a scalable, aviation-specific design system aligned with SAFe. This phase emphasizes usability, governance, cross-functional feedback, and adaptability to support high-load performance, data privacy, and accessibility for a global aviation audience.
+#### **Objective**: 
+Establish a scalable, design system aligned with SAFe. This phase emphasizes usability, governance, cross-functional feedback, and adaptability to support high-load performance, data privacy, and accessibility for a global audience.
 
 ---
 
 | **Requirement ID** | **Requirement Description** | **Feature/Component** | **Associated Task** | **Deliverable** | **Testing Criteria** | **Stakeholder Approval** | **Timeline** |
 |--------------------|-----------------------------|-----------------------|---------------------|-----------------|----------------------|--------------------------|---------------|
-| **REQ-01**         | Develop a modular, scalable UI component library optimized for aviation-specific needs | Component Library    | Build foundational components (e.g., booking widgets, flight status, navigation maps) with versioned APIs and cross-device compatibility | Core component library | Validated for usability, accessibility, and load performance across desktop, tablet, and mobile devices | Engineering Lead, Product Manager | Months 1-2 |
+| **REQ-01**         | Develop a modular, scalable UI component library| Component Library    | Build foundational components (e.g., booking widgets, flight status, navigation maps) with versioned APIs and cross-device compatibility | Core component library | Validated for usability, accessibility, and load performance across desktop, tablet, and mobile devices | Engineering Lead, Product Manager | Months 1-2 |
 | **REQ-02**         | Ensure WCAG 2.1, ADA, PCI-DSS, and GDPR compliance with automated and manual checks | Accessibility and Security Compliance | Implement automated accessibility testing pipelines and manual security audits | Compliance Report | 100% adherence to WCAG 2.1, ADA, PCI-DSS, and GDPR standards with quarterly audits | QA Lead, Accessibility Specialist | Month 1-2 |
 | **REQ-03**         | Define adaptable design tokens for multi-theme and accessibility compliance, including multilingual support | Design Tokens and Theming | Create tokens for colors, typography, spacing, RTL/LTR layouts; conduct performance reviews | Token Governance Guide | Consistent application across components, >80% adoption rate, validated for accessibility and scalability | Design Lead, Product Manager | Month 2 |
 | **REQ-04**         | Launch a user-centered documentation website with usage examples, multilingual support, and real-time analytics | Documentation Website | Build a high-performance site with “Getting Started” guides, component previews, usage examples, and troubleshooting support | Documentation Hub | >90% user satisfaction, <5 min time-to-solution; load times optimized through edge caching | Documentation Team, Engineering Lead | Months 2-3 |
 | **REQ-05**         | Establish GDPR-compliant feedback channels with prioritized insights for SAFe ARTs | Feedback Mechanism   | Set up multi-channel feedback platforms (forums, surveys) with prioritized workflows for critical issues | Community Forum and Analytics Dashboard | High engagement rate, actionable insights prioritized, 100% GDPR compliance | UX Lead, Data Lead | Month 3 |
 | **REQ-06**         | Execute a cross-functional pilot with ART teams to validate usability, accessibility, and scalability | Pilot Project Execution | Deploy components to a representative pilot team across roles, capturing insights across devices and regions | Pilot Feedback Report | >85% adoption rate, >80% positive feedback, component usage insights analyzed for cross-device usability | Product Manager, UX Lead | Months 3-4 |
-| **REQ-07**         | Develop brand consistency guidelines covering cross-platform and accessible formats | Brand Consistency    | Create a digital style guide with brand elements for light/dark modes, multilingual support, and aviation accessibility compliance | Brand Style Guide | Consistency across devices, validated for color contrast, visual consistency, and cross-platform usability | Design Lead, Marketing | Month 4-5 |
+| **REQ-07**         | Develop brand consistency guidelines covering cross-platform and accessible formats | Brand Consistency    | Create a digital style guide with brand elements for light/dark modes, multilingual support, and accessibility compliance | Brand Style Guide | Consistency across devices, validated for color contrast, visual consistency, and cross-platform usability | Design Lead, Marketing | Month 4-5 |
 | **REQ-08**         | Implement SAFe-aligned governance protocols with quarterly ART reviews, compliance audits, and public change logs | Governance and Maintenance | Create a Governance Guide with structured QA, security reviews, quarterly ART reviews, and public change logs | Governance Guide | 90% adherence to protocols; changelogs available for stakeholder transparency | Product Manager, QA Lead | Month 5-7 |
 
 ---
@@ -2546,13 +2552,13 @@ Aligned with SAFe, this design system strategy incorporates the following Agile 
 
 2. **Quarterly ART and Governance Reviews**: Quarterly ART reviews align governance and updates with SAFe cadence, ensuring compliance and iterative improvements.
 
-3. **Aviation-Specific User Acceptance Testing (UAT)**: UAT scenarios for aviation, including booking and flight tracking, validate components across devices and accessibility standards.
+3. **User Acceptance Testing (UAT)**: UAT scenarios, including booking and vehicle tracking, validate components across devices and accessibility standards.
 
 4. **Transparent Stakeholder Communication via ART Syncs and Public Logs**: Regular ART syncs and public logs keep stakeholders informed on governance, QA, and design system updates.
 
 5. **Long-Term Adoption and Satisfaction Tracking**: Adoption and satisfaction metrics post-launch measure effectiveness, with ARTs integrating improvements based on evolving user needs.
 
-6. **Future-Readiness for Emerging Aviation Technologies**: The system is designed for future adaptability, supporting advancements like biometrics, AR, and multilingual AI interfaces as needed.
+6. **Future-Readiness for Emerging Technologies**: The system is designed for future adaptability, supporting advancements like biometrics, AR, and multilingual AI interfaces as needed.
 
 ---
 
