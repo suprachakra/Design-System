@@ -170,6 +170,8 @@
     - [Requirements for Pilot Phase](#requirement-for-pilot-phase)
     - [Continuous Improvement and Success Metrics](#continuous-improvement-and-success-metrics)
     - [Design System Document](#design-system-document)
+      [Quick Reference Summary Table](#2-quick-reference-summary-table)
+      [Continuous Improvement And Success Metrics](#5-continuous-improvement-and-success-metrics)
       [Detailed Epics and Features](#detailed-epics-and-features)
       - [Epic 1: Scalable, User-Centered UI Components](#epic-1-scalable-user-centered-ui-components)
       - [Epic 2: Design Tokens and Responsive Typography](#epic-2-design-tokens-and-responsive-typography)
